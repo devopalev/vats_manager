@@ -1,6 +1,8 @@
 from bot_extension import *
 import cron
 
+# Когда я начинал это писать, только Бог и я понимали, что я делаю.
+# Сейчас остался только Бог.
 
 def main():
     dispatcher = updater.dispatcher
